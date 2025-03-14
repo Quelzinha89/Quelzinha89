@@ -1,4 +1,5 @@
 <img src="https://github.com/user-attachments/assets/404f4406-090a-4678-9f38-d2a7947d9b12" width="200" />
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7715F7&center=true&width=445&lines=SEJAM+BEM+VINDOS!)](https://git.io/typing-svg)
 
 Skills
