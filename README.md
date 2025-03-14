@@ -1,4 +1,5 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/0a12b4d7-2630-4e0c-bf12-76a5dd5c19d6)
+
 
 <!--
 **Quelzinha89/Quelzinha89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
